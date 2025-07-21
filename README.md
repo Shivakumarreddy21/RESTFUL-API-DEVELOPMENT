@@ -17,13 +17,21 @@
 # OUTPUT #
 
 [
+
     {
+    
         "id": 1,
+    
         "title": "Atomic Habits",
+        
         "author": "James Clear",
+        
         "isbn": "9780735211292",
+        
         "published_year": 2018,
+        
         "available_copies": 4
+    
     }
 ]
 
